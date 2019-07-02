@@ -13,7 +13,6 @@ The Child Theme Includes:
 * Responsive on all mobile devices
 * Easy to configure and customise
 * Great documentation and a comprehensive Installation Guide
-* Fully supported
 
 
 Multiple Plugins:
