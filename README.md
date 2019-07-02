@@ -28,6 +28,4 @@ FAQs – Simple management for your FAQs with multiple layouts and categories.
 [OpenTable Module](https://github.com/MRKWP/df-opentable-widget) – Integration with Open Table makes reservations easy and direct. Customers can book directly on your website through to Open Table.
 
 
-<iframe width="830" height="467" src="https://www.youtube.com/embed/4aPx8uUNNjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
