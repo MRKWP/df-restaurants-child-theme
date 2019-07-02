@@ -1,0 +1,13 @@
+/*!
+ Theme Name:   DF - Restaurants Child Theme
+ Theme URI:    http://www.diviframework.com
+ Description:  Divi child theme.
+ Author:       Divi Framework
+ Author URI:   https://www.diviframework.com
+ Template:     Divi
+ Version:      2.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags: responsive-layout, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, featured-images, full-width-template, post-formats, rtl-language-support, theme-options, threaded-comments, translation-ready
+ Text Domain:  df-child-theme-restaurants
+*/.et_overlay:before,.et_pb_bg_layout_light.et_pb_module.et_pb_button,.et_pb_bg_layout_light .et_pb_more_button,.et_pb_bg_layout_light .et_pb_newsletter_button,.et_pb_bg_layout_light .et_pb_promo_button,.et_pb_contact_submit,.et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active,.et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active,.et_pb_gallery .et_pb_gallery_pagination ul li a.active,.et_pb_member_social_links a:hover,.et_pb_pricing_table_button,.et_pb_pricing li a,.et_pb_sum,.woocommerce-page #content input.button:hover .et_pb_widget li a:hover{color:#fff}h1{font-size:30px;font-weight:700;text-transform:uppercase}.df-light h1{color:#fff}.secondary__heading{font-family:Herr Von Muellerhoff,Palatino,serif;font-weight:400;font-size:85px!important;padding:0 36px;margin:0 -36px;color:#c59d5f}#top-menu-nav>ul>li>a{border-bottom:3px solid #262526}#top-menu-nav>ul>li>a:hover{border-bottom:3px solid #fff}#top-menu-nav>ul>li.current-menu-item>a{border-bottom:3px solid #c59d5f}.separator-line-flower-light{display:block;overflow:hidden;text-align:center;margin-top:3px;margin-bottom:3px}.separator-line-flower-light:after,.separator-line-flower-light:before{content:"";display:inline-block;vertical-align:middle;position:relative;width:110px;border-top-style:solid;border-top-width:2px;border-top-color:#fff}.separator-line-flower-light:before{right:.5em;margin-left:-50%}.separator-line-flower-light:after{left:.5em;margin-right:-50%}.separator-line-flower-dark{display:block;overflow:hidden;text-align:center;margin-top:3px;margin-bottom:3px}.separator-line-flower-dark:after,.separator-line-flower-dark:before{content:"";display:inline-block;vertical-align:middle;position:relative;width:110px;border-top-style:solid;border-top-width:2px;border-top-color:#333}.separator-line-flower-dark:before{right:.5em;margin-left:-50%}.separator-line-flower-dark:after{left:.5em;margin-right:-50%}img{vertical-align:middle}

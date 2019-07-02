@@ -1,0 +1,64 @@
+$base-font-family: "Cabin", Arial, Helvetica, sans-serif;
+$heading-font-family: "Source Sans Pro", Georgia, serif;
+$alt-font-family: "Herr Von Muellerhoff", Palatino, serif;
+
+
+$accent: #c59d5f;
+
+$lightest: #b3b3b3;
+$light: #919191;
+
+$gray: #515150;
+$dark: #262526;
+
+$borders: #d8d8d8;
+
+/* Font sizes */
+
+$h1-size: 47px;
+// .alpha
+$h2-size: 32px;
+// .beta
+$h3-size: 24px;
+// .gamma
+$h4-size: 19px;
+// .delta
+$h5-size: 15px;
+// .epsilon
+$h6-size: 12px;
+// .zeta
+
+/*
+ * Spacing Units
+ */
+
+$_u: 24px;
+// 24px
+
+$_u4: $_u / 4;
+// 6px
+$_u2: $_u / 2;
+// 12px
+$_u15: $_u / 1.5;
+// 16px
+$_15u: 1.5 * $_u;
+// 36px
+$_175u: 1.75 * $_u;
+// 42px
+$_2u: 2 * $_u;
+// 48px
+$_25u: 2.5 * $_u;
+// 60px
+$_3u: 3 * $_u;
+// 72px
+$_35u: 3.5 * $_u;
+// 82px
+$_4u: 4 * $_u;
+// 96px
+$_5u: 5 * $_u;
+// 120px
+$_6u: 6 * $_u;
+// 144px
+$_7u: 7 * $_u;
+// 168px
+$_8u: 8 * $_u;

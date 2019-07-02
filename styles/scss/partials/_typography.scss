@@ -1,0 +1,102 @@
+/*------------------------------------*\
+               TYPOGRAPHY
+\*------------------------------------*/
+/*------------------------------------*\
+    $FONT INCLUDES
+\*------------------------------------*/
+//@import url(http://fonts.googleapis.com/css?family=Maven+Pro:400,700,900);
+//@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+//@import url(http://fonts.googleapis.com/css?family=Herr+Von+Muellerhoff);
+
+h1{
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.df-light h1{
+  color:#ffffff;
+}
+.secondary__heading{
+  font-family: $alt-font-family;
+  font-weight: normal;
+  font-size: 85px !important;
+  padding: 0 36px;
+  margin: 0 -36px;
+  color: $accent;
+}
+#top-menu-nav > ul > li > a{
+border-bottom: 3px solid $dark;
+}
+#top-menu-nav > ul > li > a:hover{
+  border-bottom: 3px solid #ffffff;
+}
+
+#top-menu-nav > ul > li.current-menu-item > a{
+  border-bottom: 3px solid $accent;
+}
+/*
+Light separator line with gold flower
+*/
+.separator-line-flower-light {
+  display: block;
+  overflow: hidden;
+  text-align: center;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+.separator-line-flower-light:before,
+.separator-line-flower-light:after {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  width: 110px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #ffffff;
+}
+.separator-line-flower-light:before {
+  right: 0.5em;
+  margin-left: -50%;
+}
+.separator-line-flower-light:after {
+  left: 0.5em;
+  margin-right: -50%;
+}
+img {
+  vertical-align: middle;
+}
+
+/*
+Dark separator line with gold flower
+*/
+
+.separator-line-flower-dark {
+  display: block;
+  overflow: hidden;
+  text-align: center;
+  margin-top: 3px;
+  margin-bottom: 3px
+}
+.separator-line-flower-dark:before,
+.separator-line-flower-dark:after {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  width: 110px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #333333;
+}
+.separator-line-flower-dark:before {
+  right: 0.5em;
+  margin-left: -50%;
+}
+.separator-line-flower-dark:after {
+  left: 0.5em;
+  margin-right: -50%;
+}
+img {
+  vertical-align: middle;
+}
