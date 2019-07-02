@@ -30,13 +30,13 @@ if (is_admin()) {
         ],
         [
             'name'     => 'FAQ Plugin',
-            'slug'     => 'divi-framework-faq/divi-framework-faq.php',
+            'slug'     => 'divi-framework-faq-premium/divi-framework-faq.php',
             'url'      => 'https://www.mrkwp.com/wp/faq-plugin/',
             'trial' => true,
         ],
         [
             'name'     => 'Testimonials for Divi',
-            'slug'     => 'df-testimonials/df-testimonials.php',
+            'slug'     => 'df-testimonials-premium/df-testimonials.php',
             'url'      => 'https://www.mrkwp.com/wp/testimonials-plugin/',
             'trial' => true,
         ],
@@ -54,7 +54,7 @@ if (is_admin()) {
         ],
         [
             'name'     => 'Restaurant Menu for Divi',
-            'slug'     => 'df-menu-items/df-menu-items.php',
+            'slug'     => 'df-menu-items-premium/df-menu-items.php',
             'url'   => 'https://www.mrkwp.com/wp/restaurant-menu-plugin/',
             'trial' => true,
         ],
