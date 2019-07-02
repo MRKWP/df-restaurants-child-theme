@@ -2,7 +2,7 @@
 
 Do you need to make a restaurant website? Any good restaurant website will have the combination of beautifully designed pages, a menu management tool, customer testimonials and the ability to take reservations. We’ve covered all this and more in our Divi Child Theme made especially for Restaurants. This theme is a great combination of elegant typography, simple styles and no complicated CSS!
 
-<iframe width="830" height="467" src="https://www.youtube.com/embed/cicD-5s0xrQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/embed/cicD-5s0xrQ">Video : Introduction</a>
 
 
 The Child Theme Includes:
